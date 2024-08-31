@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "amit",
+      "email": "a@gmail.com",
+      "password": "12345+6+789",
+      "age": "25",
+      "city": "ahmedabad"
+    },
+    {
+      "id": 2,
+      "name": "asasfd",
+      "email": "asdasdasdas@gmail.com",
+      "password": "qwertyuiop",
+      "age": "25",
+      "city": "qewqwe"
+    },
+    {
+      "id": 3,
+      "name": "ronak",
+      "email": "ronal@gmail.com",
+      "password": "12345",
+      "age": "12",
+      "city": "asdsfsd"
+    }
+  ]
+}

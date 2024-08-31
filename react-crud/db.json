@@ -1,0 +1,12 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "amit",
+      "email": "a@gmail.com",
+      "password": "12345+6+789",
+      "age": "25",
+      "city": "ahmedabad"
+    }
+  ]
+}
